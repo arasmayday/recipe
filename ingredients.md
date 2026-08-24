@@ -1,3 +1,4 @@
+Let's begin!
 beef shanks 2 to 3 lbs
 garlic 1 head
 onion 1 onion
@@ -15,3 +16,4 @@ carrots 1 carrots, cut into small pieces
 daikons 1 carrots, cut inot big chunks
 noodles 2lb of fresh Asian wheat noodles
 leafy vegetables bok choy works well but any leafy vegetables would work
+Enjoy my recipe!
