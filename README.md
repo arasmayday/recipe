@@ -4,7 +4,7 @@
 - *Chili oil*
 - *Cilantro*
 
-![Recipe] (recipe.jpg)
+![Food Photo] (recipe.jpg)
   
 ### This is a LOCAL change :)
 # recipe for Taiwanese beef noodles soup
