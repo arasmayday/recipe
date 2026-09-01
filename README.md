@@ -1,8 +1,9 @@
 # My Special Recipe
 ### Fancy recipe
-- Tomatoes
-- Chili oil
-- Cilantro
+- *Tomatoes*
+- *Chili oil*
+- *Cilantro*
+  
 ### This is a LOCAL change :)
 # recipe for Taiwanese beef noodles soup
 last line changed locally
